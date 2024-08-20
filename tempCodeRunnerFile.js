@@ -1,0 +1,1 @@
+console.log(`Value of i is ${index}`);
